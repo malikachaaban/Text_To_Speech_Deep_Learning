@@ -1,7 +1,7 @@
-#  SpeechT5 Fine-tuning for Moroccan Darija TTS
+#  SpeechT5 Fine-tuning for Moroccan Dialect TTS
 
 Fine-tuning [Microsoft's SpeechT5](https://huggingface.co/microsoft/speecht5_tts) 
-model for **Text-to-Speech in Moroccan Darija** (Arabizi + Arabic script) 
+model for **Text-to-Speech in Moroccan Dialect** (Arabizi + Arabic script) 
 using a custom Parquet audio dataset.
 
 ##  Features
